@@ -1,7 +1,7 @@
-name: "Topic 1"
+name: "cars"
 output_dir: "docs"
 navbar:
-  title: "Topic 1"
+  title: "Cars"
   left:
   - text: "Home"
    href: index.html
