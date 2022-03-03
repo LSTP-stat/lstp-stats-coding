@@ -1,6 +1,7 @@
 ---
-title: "about"
-output: html_document
+layout: page
+title: About
+permalink: /about/
 ---
 
 Learn Statistics Through Practice (LSTP) is an organization that teaches statistics and coding via in person and online seminars for students and professionals who would benefit from better data-analysis skills. Our goal is to promote data literacy and help students, professionals, and community leaders gather and better understand reliable data in order to make decisions relevant to their fields. We want to improve access to reliable information that can influence the quality of actions taken for the benefit of local communities. LSTP aims to help individuals and institutions access, organize, and analyze primary and secondary data in order to make effective decisions for the benefit of local communities. We provide statistics and coding training for students and professionals who handle quantitative information. LSTP also provides advice that can improve the quality of their work using statistics.
