@@ -1,5 +1,4 @@
 ---
 title: "Home"
-output: github_document
 ---
  Welcome to the Learn Statistics Through Practice page!
