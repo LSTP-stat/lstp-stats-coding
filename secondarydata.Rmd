@@ -1,5 +1,6 @@
 ---
 title: "Understanding Secondary Sources of Data"
+output: github_document
 ---
 There are three main sources of data: primary, secondary, and supplementary. Primary data refers to data that is collected first-hand. Secondary data is collected by someone other than the researcher themselves. Secondary data is collected for a purpose distinct from one’s own research topic, but can be useful as evidence or additional information. Secondary data is usually made available by public agencies of statistics, non-governmental organizations (NGOs) or research centers. Secondary data can also be extracted from websites and social networks for marketing research. Supplementary data is secondary data that is made available to the public via academic journals. Supplementary data is often government-funded and generally published as supplementary materials in journals. These datasets can be downloaded and used for one’s own research or to reproduce studies in order to determine whether the findings are reliable; reproducing studies is important for verifying the results of scientific research. 
 
