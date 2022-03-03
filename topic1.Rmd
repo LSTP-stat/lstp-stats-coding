@@ -1,6 +1,6 @@
 ---
 title: "Understanding Secondary Sources of Data"
-output: github_document
+output: html_document
 ---
 knit: (function(input_file, encoding) {
   out_dir <- 'docs';
