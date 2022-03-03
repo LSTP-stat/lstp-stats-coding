@@ -1,0 +1,12 @@
+name: "Topic 1"
+output_dir: "docs"
+navbar:
+  title: "Topic 1"
+  left:
+  - text: "Home"
+   href: index.html
+  - text: "Understanding Secondary Sources of Data "
+   href: secondarydata.html
+output:
+  html_document:
+ theme: cosmo
