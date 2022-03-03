@@ -1,6 +1,5 @@
 ---
-title: "index"
-output: html_document
+title: "Home"
 ---
 
 Welcome!
