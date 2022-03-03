@@ -1,2 +1,2 @@
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+theme: minima
 include: [_pages]
